@@ -1,7 +1,7 @@
 ### Sana Commerce Software Development Courses `24
 ![Sana Commerce](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 ## Практична робота №1
-#Основні завдання
+# Основні завдання
 У **практичній роботі №1** було:
 1. створено локальний репозиторій
 1. створено віддалений репозиторій на GitHub
@@ -20,6 +20,7 @@
 ## Практична робота №2
 
 # Основні завдання
+
 У **практичній роботі №2** потрібно:
 
 * створити файл README.md
