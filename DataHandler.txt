@@ -1,2 +1,3 @@
 Handle(Data)
-Handle(Data[])
+Handle(List<Data>)
+Data GetData(int id)
